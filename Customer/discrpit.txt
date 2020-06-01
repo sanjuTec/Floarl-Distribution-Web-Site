@@ -1,0 +1,21 @@
+Description
+The image displayed is indicative in nature. Actual product may vary in shape or design as per the availability.
+The chosen delivery date is an estimate and depends on the availability of the product and the destination to which you want the product to be delivered.
+We will be able to attempt delivery of your order only once. The delivery cannot be redirected to any other address.
+Occasionally, substitution is necessary due to temporary and/or regional unavailability issues.
+
+Care Instructions
+Don’t place the flower arrangement under direct sunlight or near any other source of excessive heat. It should also not be placed under a fan.
+If any petal gets damaged, then remove it from the flower.
+Ensure that the floral foam is always soaked in water.
+All the flowers benefit from a daily mist of water.
+Enjoy your flowers!
+Related products
+
+<li><a href="#"><p><button class="w3-button w3-red">Red  </button></p></a></li>
+                                            <li><a href="#"><p><button class="w3-button w3-pink">Pink  </button></p></a></li>
+                                            <li><a href="#"><p><button class="w3-button w3-purple">Purp</button></p></a></li>
+                                            <li><a href="#"><p><button class="w3-button w3-blue">Blue  </button></p></a></li>
+                                            <li><a href="#"><p><button class="w3-button w3-sand">White</button></p></a></li>
+                                            <li><a href="#"><p><button class="w3-button w3-orange">Oran</button></p></a></li>
+                                            <li><a href="#"> <p><button class="w3-button w3-black">Black</button></p></a></li>
